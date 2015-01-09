@@ -91,7 +91,7 @@ if (!isset($_SESSION["user_name"])) {
 <?php
 /**
  * Created by PhpStorm.
- * User: Asus
+ * User: Adam
  * Date: 2014-12-09
  * Time: 09:26
  */
